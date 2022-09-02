@@ -2,4 +2,4 @@
 A clean meditation app.
 
 
-! [title] (https://github.com/yamilyn/zen-journal-app/raw/master/public/ZenJournalApp.png)
+! [title](https://github.com/yamilyn/zen-journal-app/raw/master/public/ZenJournalApp/to/img.png)
