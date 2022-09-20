@@ -2,7 +2,7 @@
 ## A clean meditation app.
 
 
-<img src="public/images/ZenJournalApp.png">
+<img src="/project-four-frontend/public/images/ZenJournalApp.png">
 
 Project philosophy:
 
