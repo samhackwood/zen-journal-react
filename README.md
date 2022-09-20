@@ -2,6 +2,8 @@
 ## A clean meditation app.
 
 
+<img src="public/images/ZenJournalApp.png">
+
 Project philosophy:
 
 A clean and simple app to time and track meditations. We designed the app with two principal philosophies. Firstly, that journaling is an extremely powerful tool on the spiritual path. Not only does journaling allow us to become more aware of the content of our minds but it gives us a sense of our progress and prevents from sitting in rumination rather than actually meditating.
