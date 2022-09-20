@@ -2,18 +2,12 @@
 ## A clean meditation app.
 
 
-! [title](https://github.com/yamilyn/zen-journal-app/raw/master/public/ZenJournalApp/to/img.png)
-
-
-
-
-
-Project philosophy
+Project philosophy:
 
 A clean and simple app to time and track meditations. We designed the app with two principal philosophies. Firstly, that journaling is an extremely powerful tool on the spiritual path. Not only does journaling allow us to become more aware of the content of our minds but it gives us a sense of our progress and prevents from sitting in rumination rather than actually meditating.
 Secondly, that most mediation apps do too much; they are filled with excessive guidance, gadgets, and gizmos and ultimately become a distraction themselves. In our design we try not to get in the way but simply allow the user to meditate, then write about what they experience.
 
-Technical requirements
+Technical requirements:
 
 A working full-stack, single-page application hosted on Heroku.
 •	Incorporate the technologies of the MERN-stack:
@@ -73,5 +67,5 @@ Shortly after completing the project, I decided to send it round a few friends a
 -A few users pointed out that even after a template is created, the user still has to manually set the stages and time so there is not much point in creating the template in the first place. This should be relatively simple to fix, and the template data simply needs to be assigned to the meditation. 
 
 -I have been using the app myself for my meditations and have found that my browser tends to sleep before the meditation has finished. This is incredibly frustrating since you are left meditating with no signal to stop. To counter this I have been using a chrome extension called ‘caffeine’ which keeps the browser awake for a set amount of time however I will look into a way of preventing the user’s browser from sleeping which I can implement into my code. 
-![image](https://user-images.githubusercontent.com/104862814/191313001-00647a93-15e4-4c04-ac5a-8aff9308bcc4.png)
+
 
