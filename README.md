@@ -1,4 +1,4 @@
-# zen-journal-react
+# Zen Journal.
 ## A clean meditation app.
 
 
@@ -27,6 +27,12 @@ o	Node
 •	Utilise multi-user, real-time communications.
 
 Wireframes + ERD/UML:
+
+<img src="project-four-frontend/public/screenshots/Project Four-SEI (3).png">
+
+<img src="project-four-frontend/public/screenshots/Screenshot 2022-07-15 at 11.36.45 am.png">
+
+<img src="project-four-frontend/public/screenshots/Screenshot 2022-07-15 at 11.47.47 am.png">
 
 Development Process: 
 
